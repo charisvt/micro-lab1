@@ -1,0 +1,7 @@
+# .gitignore
+*.o
+*.elf
+*.hex
+*.map
+/build/
+/obj/
